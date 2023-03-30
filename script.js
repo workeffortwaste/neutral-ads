@@ -13,6 +13,7 @@ window.addEventListener('load', (event) => {
       position:relative;
     }
     .nt-logo:after{
+      content:'Nt';
       display: flex;
       place-content: center;
       width: 100%;
